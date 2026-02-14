@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\4Code\4Code\bin\Debug\net8.0\4Code.exe
+C:\Users\gusta\source\repos\4Code\4Code\bin\Debug\net8.0\4Code.deps.json
+C:\Users\gusta\source\repos\4Code\4Code\bin\Debug\net8.0\4Code.runtimeconfig.json
+C:\Users\gusta\source\repos\4Code\4Code\bin\Debug\net8.0\4Code.dll
+C:\Users\gusta\source\repos\4Code\4Code\bin\Debug\net8.0\4Code.pdb
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.AssemblyInfo.cs
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.dll
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\refint\4Code.dll
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.pdb
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\4Code.genruntimeconfig.cache
+C:\Users\gusta\source\repos\4Code\4Code\obj\Debug\net8.0\ref\4Code.dll
