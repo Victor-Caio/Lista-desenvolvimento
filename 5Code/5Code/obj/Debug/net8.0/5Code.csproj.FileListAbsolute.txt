@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\5Code\5Code\bin\Debug\net8.0\5Code.exe
+C:\Users\gusta\source\repos\5Code\5Code\bin\Debug\net8.0\5Code.deps.json
+C:\Users\gusta\source\repos\5Code\5Code\bin\Debug\net8.0\5Code.runtimeconfig.json
+C:\Users\gusta\source\repos\5Code\5Code\bin\Debug\net8.0\5Code.dll
+C:\Users\gusta\source\repos\5Code\5Code\bin\Debug\net8.0\5Code.pdb
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.AssemblyInfo.cs
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.dll
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\refint\5Code.dll
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.pdb
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\5Code.genruntimeconfig.cache
+C:\Users\gusta\source\repos\5Code\5Code\obj\Debug\net8.0\ref\5Code.dll
